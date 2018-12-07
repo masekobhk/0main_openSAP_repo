@@ -21,7 +21,7 @@
 									</iotele:IoTThingListElement>
 								</iot:things>
 							</iot:IoTThingList>
-							<Button text="File DIR" width="100px" id="button2" press="openLink"/>
+							<Button text="File DR" width="100px" id="button2" press="openLink"/>
 						</items>
 					</VBox>
 					<VBox width="75%" direction="Column">
