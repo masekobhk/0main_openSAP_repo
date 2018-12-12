@@ -43,5 +43,12 @@
 				</items>
 			</HBox>
 		</content>
+	<footer>
+	    <Toolbar width="100%" id="toolbar3">
+	    <content>
+	        <iot:IoTImageMarker id="marker1"/>
+	    </content>
+	    </Toolbar>
+	</footer>
 	</Page>
 </mvc:View>
